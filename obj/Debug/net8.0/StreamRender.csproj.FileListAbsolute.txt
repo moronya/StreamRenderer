@@ -1,0 +1,14 @@
+C:\Users\moron\OneDrive\Desktop\Learning\Test\StreamRender\bin\Debug\net8.0\StreamRender.exe
+C:\Users\moron\OneDrive\Desktop\Learning\Test\StreamRender\bin\Debug\net8.0\StreamRender.deps.json
+C:\Users\moron\OneDrive\Desktop\Learning\Test\StreamRender\bin\Debug\net8.0\StreamRender.runtimeconfig.json
+C:\Users\moron\OneDrive\Desktop\Learning\Test\StreamRender\bin\Debug\net8.0\StreamRender.dll
+C:\Users\moron\OneDrive\Desktop\Learning\Test\StreamRender\bin\Debug\net8.0\StreamRender.pdb
+C:\Users\moron\OneDrive\Desktop\Learning\Test\StreamRender\obj\Debug\net8.0\StreamRender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moron\OneDrive\Desktop\Learning\Test\StreamRender\obj\Debug\net8.0\StreamRender.AssemblyInfoInputs.cache
+C:\Users\moron\OneDrive\Desktop\Learning\Test\StreamRender\obj\Debug\net8.0\StreamRender.AssemblyInfo.cs
+C:\Users\moron\OneDrive\Desktop\Learning\Test\StreamRender\obj\Debug\net8.0\StreamRender.csproj.CoreCompileInputs.cache
+C:\Users\moron\OneDrive\Desktop\Learning\Test\StreamRender\obj\Debug\net8.0\StreamRender.dll
+C:\Users\moron\OneDrive\Desktop\Learning\Test\StreamRender\obj\Debug\net8.0\refint\StreamRender.dll
+C:\Users\moron\OneDrive\Desktop\Learning\Test\StreamRender\obj\Debug\net8.0\StreamRender.pdb
+C:\Users\moron\OneDrive\Desktop\Learning\Test\StreamRender\obj\Debug\net8.0\StreamRender.genruntimeconfig.cache
+C:\Users\moron\OneDrive\Desktop\Learning\Test\StreamRender\obj\Debug\net8.0\ref\StreamRender.dll

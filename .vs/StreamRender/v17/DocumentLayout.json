@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moron\\OneDrive\\Desktop\\Learning\\Test\\StreamRender\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AB4C51-2CC3-4B17-9477-1514EF39F015}|StreamRender.csproj|c:\\users\\moron\\onedrive\\desktop\\learning\\test\\streamrender\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4AB4C51-2CC3-4B17-9477-1514EF39F015}|StreamRender.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AB4C51-2CC3-4B17-9477-1514EF39F015}|StreamRender.csproj|c:\\users\\moron\\onedrive\\desktop\\learning\\test\\streamrender\\screenrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4AB4C51-2CC3-4B17-9477-1514EF39F015}|StreamRender.csproj|solutionrelative:screenrenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScreenRenderer.cs",
+              "DocumentMoniker": "C:\\Users\\moron\\OneDrive\\Desktop\\Learning\\Test\\StreamRender\\ScreenRenderer.cs",
+              "RelativeDocumentMoniker": "ScreenRenderer.cs",
+              "ToolTip": "C:\\Users\\moron\\OneDrive\\Desktop\\Learning\\Test\\StreamRender\\ScreenRenderer.cs",
+              "RelativeToolTip": "ScreenRenderer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T15:19:18.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\moron\\OneDrive\\Desktop\\Learning\\Test\\StreamRender\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\moron\\OneDrive\\Desktop\\Learning\\Test\\StreamRender\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T15:14:10.878Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
